@@ -31,4 +31,6 @@ Below i will explain logistic regression in simple steps:
 
 These are the overall steps behind Logistic regression, however there is inbuild command in  sklearn, i have used it to do all this.
 
-The dataset i used in all 3 codes are picked from Programming exercises of Machine Learning course by Andrew ng on Coursera.
+The dataset i used in all 3 codes are picked from 
+[Linear Regression] (https://www.coursera.org/learn/machine-learning/programming/8f3qT/linear-regression) and 
+[Logistic Regression] (https://www.coursera.org/learn/machine-learning/programming/ixFof/logistic-regression)
